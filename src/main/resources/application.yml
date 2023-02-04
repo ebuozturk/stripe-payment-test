@@ -1,0 +1,6 @@
+stripe:
+  apiKey: ""
+  stripePublicKey: ""
+  webSecretKey: ""
+server:
+  port: 9090
